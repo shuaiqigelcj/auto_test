@@ -22,19 +22,11 @@
 
 \## 📁 项目结构
 
-api\_auto\_test/├── api/           
-
-\# 接口请求封装├── case/           
-
-\# 测试用例├── data/           
-
-\# JSON 测试数据├── tools/          
-
-\# 工具类（读取 JSON 等）
-
-
-
-
+api\_auto\_test/├
+── api/  # 接口请求封装├
+── case/ # 测试用例├
+── data/ # JSON 测试数据├
+── tools/# 工具类（读取 JSON 等）
 
 \## 🚀 技术栈
 
@@ -47,8 +39,6 @@ api\_auto\_test/├── api/
 \- JSON 数据驱动
 
 \- Git + GitHub 版本控制
-
-
 
 \## 🎯 核心功能
 
