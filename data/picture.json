@@ -1,0 +1,6 @@
+{
+  "url":"https://api-toutiao-web.itheima.net/mp/v1_0/user/images/30753",
+  "headers":{"Content-Type": "application/json","Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzgxNjA0MDUsInVzZXJfaWQiOjEsInJlZnJlc2giOnRydWUsInZlcmlmaWVkIjp0cnVlfQ.acXHGG8HIt1WQBRsafljNTlhQ-M_ffvi2djQteExIMw"},
+  "status": 201,
+  "expect_result": "Wrong refresh token."
+}
