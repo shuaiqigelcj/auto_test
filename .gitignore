@@ -1,0 +1,25 @@
+# PyCharm 配置
+.idea/
+*.iml
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 测试报告
+report/
+allure-report/
+
+# 日志
+logs/
+*.log
+
+# 虚拟环境
+venv/
+env/
+.env
+
+# 系统文件
+.DS_Store
